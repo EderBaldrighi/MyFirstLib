@@ -11,10 +11,13 @@ import Foundation
 public class Service {
     
     private init() {
-        
     }
     
     public static func test() -> String {
         return "Success test!"
+    }
+    
+    public static func testTwo() -> String {
+        return "Success test two!"
     }
 }
