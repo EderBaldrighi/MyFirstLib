@@ -20,4 +20,8 @@ public class Service {
     public static func testTwo() -> String {
         return "Success test two!"
     }
+    
+    public static func testThree() -> String {
+        return "Success test three!"
+    }
 }
