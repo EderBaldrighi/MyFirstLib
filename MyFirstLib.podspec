@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license                = { :type => 'MIT', :file => 'LICENSE' }
   s.author                 = { "Eder Baldrighi" => "ebaldrighi@gmail.com" }
   s.platform               = :ios, "9.3"
-  s.source                 = { :git => "https://github.com/Nabster2104/MyFirstLib.git", :tag => "1.0.0" }
+  s.source                 = { :git => "https://github.com/Nabster2104/MyFirstLib.git", :tag => "1.0.2" }
   s.source_files           = "MyFirstLib/**/*"
   s.exclude_files          = "MyFirstLib/**/*.plist"
   s.swift_version          = '4.2'
