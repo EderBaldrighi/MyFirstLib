@@ -13,5 +13,6 @@ Pod::Spec.new do |s|
   s.exclude_files          = "MyFirstLib/**/*.plist"
   s.swift_version          = '4.2'
   s.ios.deployment_target  = '9.3'
+  s.dependency 'Alamofire'
 
 end
