@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                   = "MyFirstLib"
-  s.version                = "1.0.6"
+  s.version                = "1.0.7"
   s.summary                = "This is my First Lib"
   s.description            = "This is my First Lib, check it out."
   s.homepage               = "https://github.com/Nabster2104/"
